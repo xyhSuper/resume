@@ -1,23 +1,23 @@
 {
-  "name":"王世霖",
+  "name":"徐永华",
   "sex":"男",
-  "birthday":"1992-08-24",
-  "workSince":"2012-11-01",
+  "birthday":"1996-02-15",
+  "workSince":"2018-05-01",
   "exp":["毕业","年工作","年"],
-  "nickname":"烁皓",
-  "firstName":"wang",
-  "lastName":"wesley",
-  "slogan":"不懂设计的前端不是好产品",
+  "nickname":"徐永华",
+  "firstName":"yonghua",
+  "lastName":"xu",
+  "slogan":"生命不息折腾不止",
   "tips":"Ctrl+p可以印本简历，打印时显示真名",
-  "education":"专科",
-  "phone":15001827426,
-  "location":"Wuhan·China",
+  "education":"本科",
+  "phone":18281500980,
+  "location":"四川·成都",
   "qq":{
-    "number":"790313188"
+    "number":"704261697"
   },
-  "website":"http://79px.com",
-  "github":"https://github.com/eternityspring",
-  "email":"eternityspring@163.com",
+  "website":"https://www.x-y-h.cn",
+  "github":"https://github.com/xyhSuper",
+  "email":"704261697@qq.com",
   "intro":{
     "content":[
       "6年+工作经验。4年＋的一线城市前端研发经验，其中包括一年带团队经验。能搭建持续集成的开发环境。有着高效的项目协调与推进经验。",
@@ -316,7 +316,7 @@
   "usually":[
     {
       "name":"GitHub",
-      "link":"https://github.com/eternityspring",
+      "link":"https://github.com/xyhSuper",
       "description":"分享一些我的小作品 结交志同道合的朋友"
     },
     {
