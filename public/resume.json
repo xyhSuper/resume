@@ -20,26 +20,26 @@
   "email":"704261697@qq.com",
   "intro":{
     "content":[
-      "6年+工作经验。4年＋的一线城市前端研发经验，其中包括一年带团队经验。能搭建持续集成的开发环境。有着高效的项目协调与推进经验。",
-      "有个人网站。熟悉前端项目构建，有过基于 angular1.x 和 vue 的产品开发经验，以及微信小程序和微信公众号开发经验。自发的独立做过些许优化工作流的小工具。",
-      "喜欢开源，热爱产品，懂设计。用 node.js 做过后端。熟悉 restful 的开发模式和基于git的版本管理。习惯 PDCA 式的小步快跑工作流。",
-      "言语思考，爱折腾。精通 vue 和 angular1.x。常用 scss。爱折腾。没事喜欢做做小东西。",
-      "颇为丰富的 BS架构 web应用开发经验。有着浓厚的对产品设计的兴趣和对良好用户体验的精益求精精神。",
+      "4年+工作经验。有着高效的项目协调与推进经验。",
+      "有个人网站。熟悉前端项目构建，有过基于 react 和 vue 的产品开发经验，以及微信小程序和微信公众号开发经验。自发的独立做过些许优化工作流的小工具。",
+      "喜欢开源，热爱产品。用 node.js 做过后端。熟悉 restful 的开发模式和基于git的版本管理。",
+      "言语思考，爱折腾。精通 vue 。常用 less。爱折腾。没事喜欢做做小东西。",
+      "颇为丰富的 BS架构 web应用开发经验。有着浓厚的对产品设计的兴趣和对良好用户体验追求。",
       "<b>希望凭借多年互联网从业经验，最终能够成为一个优秀的产品。</b>"
     ],
     "technology":{
       "title":"技术栈和工具：",
       "content":[
-        "vue","express","mongodb","webpack","node.js","golang","scss","bootstrap","gulp","angular","photoshop","axure"
+        "vue","express","mongodb","webpack","node.js","sass","less","react","vite","koa","vite"
       ]
     }
   },
   "experience":[
     {
-      "time":"2019.01-today",
-      "title":"自由职业者",
-      "intro":"前端/产品负责人",
-      "description":"先后合作了多个项目。有单独负责前端架构，有负责产品迭代根据人员协调等。丰富的前端开发经验。高效的沟通项目推进能力。",
+      "time":"2021.12-至今",
+      "title":"成都万江港利科技股份有限公司",
+      "intro":"前端开发",
+      "description":"完成了一个农业网站的pc、app以及管理后台的前端工作。",
       "tips":[
         {
           "title":"主要业绩：",
@@ -54,7 +54,7 @@
         {
           "title":"技术栈：",
           "content":[
-            "node.js","vue","element-ui","scss","webpack","axure"
+            "vue","antd-vue","less","webpack","apicloud"
           ]
         }
       ]
@@ -157,16 +157,8 @@
       "percent":"95%"
     },
     {
-      "name":"Axure",
-      "percent":"75%"
-    },
-    {
       "name":"JavaScript",
       "percent":"85%"
-    },
-    {
-      "name":"PhotoShop",
-      "percent":"80%"
     },
     {
       "name":"Node.js",
@@ -174,11 +166,11 @@
     },
     {
       "name":"MongoDB",
-      "percent":"60%"
+      "percent":"30%"
     },
     {
-      "name":"Bootstrap",
-      "percent":"95%"
+      "name":"react",
+      "percent":"30%"
     },
     {
       "name":"Vue",
@@ -187,8 +179,8 @@
   ],
   "project":[
     {
-      "time":"2018.03-2018.07",
-      "title":"尚德机构",
+      "time":"2021.12-至今",
+      "title":"成都万江港利科技股份有限公司",
       "intro":"一个销售统计分析工具。",
       "description":"一个销售情况的统计分析平台的前端架构设计和迭代实现。",
       "tips":[
