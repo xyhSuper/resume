@@ -20,17 +20,17 @@
   "email":"704261697@qq.com",
   "intro":{
     "content":[
-      "4年+工作经验。有着高效的项目协调与推进经验。",
-      "有个人网站。熟悉前端项目构建，有过基于 react 和 vue 的产品开发经验，以及微信小程序和微信公众号开发经验。自发的独立做过些许优化工作流的小工具。",
+      "4年工作经验。有着高效的项目推进经验。",
+      "有个人网站。熟悉前端项目构建，有过基于 vue 和 react 的产品开发经验，以及微信小程序和微信公众号开发经验。",
       "喜欢开源，热爱产品。用 node.js 做过后端。熟悉 restful 的开发模式和基于git的版本管理。",
-      "言语思考，爱折腾。精通 vue 。常用 less。爱折腾。没事喜欢做做小东西。",
+      "言语思考，爱折腾。熟练使用vue 。常用 less。爱折腾。没事喜欢做做小东西。",
       "颇为丰富的 BS架构 web应用开发经验。有着浓厚的对产品设计的兴趣和对良好用户体验追求。",
       "<b>希望凭借多年互联网从业经验，最终能够成为一个优秀的产品。</b>"
     ],
     "technology":{
       "title":"技术栈和工具：",
       "content":[
-        "vue","express","mongodb","webpack","node.js","sass","less","react","vite","koa","vite"
+        "vue","less","sass","react","vite","koa","vite","express","mongodb","webpack","node.js"
       ]
     }
   },
@@ -200,16 +200,19 @@
     {
       "time":"2020.05 - 2021.10",
       "title":"云运营平台（pc、小程序、h5）",
-      "intro":"全栈开发的学习与研究,部署于阿里云",
-      "description":"自毕业后创建与维护一个个人网站。在学 nodejs 之前，是基于 drupal 做的。自己独立开发的主题，广受欢迎。在学习了nodejs后，后端基于 nodejs 的 express 和 Mongodb，前端基于 angularjs 和 bootstrap 使用 restful 风格重做了一遍。历时1年。整个网站的迭代是我整个技术栈成长的缩影。目前正在用Vue重构设计。",
+      "intro":"提升企业工作效率，引领企业数字化转型的一套税筹解决方案，pc端：以灵活用工形式为企业进行税筹规划（B端）",
+      "description":"打造“互联网+财税”新体验，提供合规、专业、安全的保障体系，为企业平台、自由职业者提供工商财税解决方案和服务保障",
       "tips":[
         {
           "title":"实现的主要功能：",
           "content":[
             "用户登录注册以及用户管理。",
-            "创建管理有序且有层级关系的教程文档。",
-            "针对注册用户订购网站会员的订单系统。",
-            "博客系统。"
+            "前后端分离的项目，前端为vue。",
+            "管理平台采用jeecg框架实现快速开发，管理用户权限和菜单项配置。",
+            "ui框架选用ant design vue实现快速布局。",
+            "使用echarts实现首页数据汇总曲线图",
+            "封装了表格分页组件和图片预览等组件",
+            "深入理解组件式开发，独立封装组件进行功能性开发"
           ]
         }
       ],
@@ -217,24 +220,22 @@
         {
           "title":"技术栈：",
           "content":[
-            "node.js","angular","scss","gulp","bootstrap","express","mongodb","vue","Axure"
+            "vue","less","scss","uniapp","uview"
           ]
         }
       ]
     },
     {
-      "time":"2015.02-2015.10",
-      "title":"听说通",
-      "intro":"一个K12领域在线教育产品",
-      "description":"在此期间参与了一个教育产品包括学生端、老师端、微信家长端以及学校管理员管理后台几个系统的前端方便的工作。微信家长端是基于vue.js制作，其他部分是基于angular和bootstrap利用gulp等一系列nodejs构建完成。",
+      "time":"2020.05 - 2021.10",
+      "title":"云结算平台 (pc)",
+      "intro":"针对企业的一整套财税解决方案",
+      "description":"打造“互联网+财税”新体验，提供合规、专业、安全的保障体系，为企业平台、自由职业者提供工商财税解决方案和服务保障。",
       "tips":[
         {
           "title":"实现的主要功能：",
           "content":[
-            "老师端：根据现有内容库发布、批改作业。管理班级和学生等。",
-            "学生端：查看和完成老师布置作业。",
-            "家长端：通过微信公众号绑定和管理自己的孩子方便查看孩子的作业情况。",
-            "学校管理后台：管理老师学生教材等。"
+            "基于react+hooks+mobx+antd+ typescript等技术完成。",
+            "使用mobx实现全局状态管理。"
           ]
         }
       ],
@@ -242,36 +243,16 @@
         {
           "title":"技术栈：",
           "content":[
-            "node.js","angular","scss","gulp","bootstrap"
+            "react","antd","less"
           ]
         }
       ]
     },
     {
-      "time":"2015.11-2016.08",
-      "title":"U学",
-      "intro":"一个闯关形式的在线教育产品",
-      "description":"与之前的听说通类似。如果之前的产品是淘宝模式，那么这个产品就是京东模式。同样包括学生端，老师端和微信家长端以及管理后台。除此之外，我们还利用ionic基于前端技术制作老师移动端分别打包成了android和ios应用。",
-      "technology":[
-        {
-          "title":"技术栈：",
-          "content":[
-            "node.js","angular","scss","gulp","bootstrap"
-          ]
-        }
-      ]
-    },
-    {
-      "time":"2014.03-2015.01",
-      "title":"Trafish",
-      "intro":"一个入境游在线旅游产品",
-      "description":"这个产品是前后端混合开发的。都是写的jsp页面。完成了线上订购旅游产品的一个网站和管理订单和用户的管理后台。"
-    },
-    {
-      "time":"2017.10-2017.10",
-      "title":"黄龙客栈",
-      "intro":"一个聚会娱乐小程序。",
-      "description":"个人为主体的，业余做着玩的防止聚会无聊的小程序。在微信小程序中搜索'黄龙客栈'即可查看。"
+      "time":"2018.05 - 2020.02",
+      "title":"页面开发&前端框架学习",
+      "intro":"其中包括3个月的实习时间",
+      "description":"18年年初，来到成都，就职于成都云数汇科技有限公司。从事前端开发方面工作。成果：开发和维护了一个政府网站网络理政相关pc端的前端工作。"
     }
   ],
   "usually":[
@@ -282,7 +263,7 @@
     },
     {
       "name":"知乎",
-      "link":"https://www.zhihu.com/people/790313188",
+      "link":"https://www.zhihu.com/people/xyhSuper",
       "description":"探索新奇 关注互联网用户的关注热点"
     },
     {
@@ -296,12 +277,13 @@
       "description":"查阅一些技术文档"
     },
     {
-      "name":"Behance",
+      "name":"站酷",
+      "link":"https://www.zcool.com.cn",
       "description":"寻找灵感探索新奇"
     },
     {
       "name":"CodePen",
-      "link":"http://codepen.io/eternityspring",
+      "link":"http://codepen.io",
       "description":"探索和分享好的代码"
     }
   ]
