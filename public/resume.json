@@ -168,7 +168,7 @@
         {
           "title":"技术栈：",
           "content":[
-            "vue","less","antd-vue"
+            "vue","less","antd-vue","agora"
           ]
         }
       ]
@@ -182,12 +182,9 @@
         {
           "title":"实现的主要功能：",
           "content":[
-            "管理后台",
-            "加息券、体验金",
-            "亲子标",
-            "定融计划",
-            "活动页面",
-            "vue重构整个项目"
+            "视频通话",
+            "音频通话",
+            "天地图接入"
           ]
         }
       ],
@@ -195,14 +192,14 @@
         {
           "title":"技术栈：",
           "content":[
-            "node.js","vue","scss","webpack","bootstrap"
+            "vue","less","apicloud","agora","sqlite"
           ]
         }
       ]
     },
     {
-      "time":"自毕业后",
-      "title":"个人网站",
+      "time":"2020.05 - 2021.10",
+      "title":"云运营平台（pc、小程序、h5）",
       "intro":"全栈开发的学习与研究,部署于阿里云",
       "description":"自毕业后创建与维护一个个人网站。在学 nodejs 之前，是基于 drupal 做的。自己独立开发的主题，广受欢迎。在学习了nodejs后，后端基于 nodejs 的 express 和 Mongodb，前端基于 angularjs 和 bootstrap 使用 restful 风格重做了一遍。历时1年。整个网站的迭代是我整个技术栈成长的缩影。目前正在用Vue重构设计。",
       "tips":[
