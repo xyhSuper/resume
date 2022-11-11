@@ -96,7 +96,7 @@
                 <div class="col-md-6 col-lg-3">
                   <a class="item wow inShow" data-wow-delay="0.55s" :href="userInfo.website" target="_blank">
                     <h4>经验</h4>
-                    <div class="info">{{userInfo.exp[0]+(calcDate(userInfo.workSince)-1)+userInfo.exp[1]+calcDate(userInfo.workSince)+userInfo.exp[2]}}</div>
+                    <div class="info">{{calcDate(userInfo.workSince)+userInfo.exp[2]}}</div>
                   </a>
                 </div>
               </div>
